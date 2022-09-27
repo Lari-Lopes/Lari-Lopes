@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Lari-Lopes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lari-Lopes&show_icons=true&theme=merkot&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Lopes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lari-Lopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Lopes&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
 <div style="display: inline_block"><br>
