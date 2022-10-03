@@ -1,6 +1,6 @@
 # Olá, me chamo Lari Lopes!
 
-## Bem-vindo ao meu perfil GitHub 😁
+## Bem-vindo(a) ao meu perfil GitHub 😁
 
 ## Bio
 Tenho 24 anos e sou apaixonada por tecnologia. Sou iniciante no universo da programação e quanto mais eu aprendo, mais eu me apaixono por esse universo! :purple_heart: :computer:
