@@ -31,6 +31,7 @@ Tenho 25 anos e sou apaixonada por tecnologia. Sou iniciante no universo da prog
   <a href = "mailto:laradev22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-nathielle-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/Lari-Lopes/Lari-Lopesv/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+ ![snake gif](https://github.com/Lari-Lopes/Lari-Lopesv/blob/output/github-contribution-grid-snake.svg)
