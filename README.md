@@ -33,5 +33,3 @@ Tenho 25 anos e sou apaixonada por tecnologia. Sou iniciante no universo da prog
  
 
 </div>
-
- ![snake gif](https://github.com/Lari-Lopes/Lari-Lopesv/blob/output/github-contribution-grid-snake.svg)
